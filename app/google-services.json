@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424660948848",
+    "project_id": "callfordelivery-c6158",
+    "storage_bucket": "callfordelivery-c6158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424660948848:android:45720cab3410c2da9521b5",
+        "android_client_info": {
+          "package_name": "com.example.callfordelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424660948848-i2b8vnjv060fntftbpcjvotheipm9ca1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callfordelivery",
+            "certificate_hash": "6c8bea8459d9b1261985dc6df0da854f3f7ad855"
+          }
+        },
+        {
+          "client_id": "424660948848-9gl34oilohfk2a0cutdrvgbu318a3mp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAotdUhka_SzlBzjf1yOpKPWE_PVB1mD3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424660948848-9gl34oilohfk2a0cutdrvgbu318a3mp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
